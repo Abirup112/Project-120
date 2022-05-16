@@ -7,3 +7,43 @@
     line-height:3;
     text-align:center;
   }
+  ball1{
+      width: 50%;
+      height:50px;
+  }
+  ball2{
+    width: 50%;
+    height:50px;
+} 
+cap{
+    width: 50%;
+    height:50px;
+}
+car{
+    width: 50%;
+    height:50px;
+}
+bat{
+    width: 100px;
+    height:50px;
+}
+drawing{
+    width: 100px;
+    height:50px;
+}
+watch{
+    width: 100px;
+    height:50px;
+}
+box{
+    width: 100px;
+    height:50px;
+}
+bottle{
+    width: 100px;
+    height:50px;
+}
+color{
+    width: 100px;
+    height:50px;
+}
